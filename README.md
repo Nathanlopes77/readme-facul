@@ -89,7 +89,6 @@ Voce precisa ter instalado:
 └───src
     ├───app
     ├───interface
-    └───repository
 ```
 
 <p id="tecnologiasutilizadas"></p>
@@ -97,3 +96,4 @@ Voce precisa ter instalado:
 ## Tecnologias Utilizadas
 - [HTML]
 - [Markdown]
+  
