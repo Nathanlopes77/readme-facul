@@ -88,7 +88,6 @@ Voce precisa ter instalado:
 ├───img
 └───src
     ├───app
-    ├───interface
 ```
 
 <p id="tecnologiasutilizadas"></p>
