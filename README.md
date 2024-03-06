@@ -96,4 +96,3 @@ Voce precisa ter instalado:
 ## Tecnologias Utilizadas
 - [HTML]
 - [Markdown]
-  
